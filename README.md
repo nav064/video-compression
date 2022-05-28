@@ -1,5 +1,9 @@
 # video-compression
-Working with video compression pipeline and measurement
+Working with video compression pipeline and measurement.
+
+ffmpeg is an opensource multimedia processing framework. 
+
+We play with primary compression using bitrates and CRF (https://slhck.info/video/2017/02/24/crf-guide.html) in this notebook. 
 
 # Initializing
 1. Have working python 
